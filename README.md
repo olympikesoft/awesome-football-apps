@@ -149,6 +149,7 @@ Resources for developers building football apps, live-score websites, match trac
 - [API-Football](https://www.api-football.com/) — football fixtures, standings, teams, and statistics APIs.
 - [football-data.org](https://www.football-data.org/) — football competition and match data.
 - [OpenLigaDB](https://www.openligadb.de/) — football results data for supported leagues.
+- [Footalytics](https://footalytics.farvor.com/) — football match prediction API with win/draw/loss probabilities, confidence tiers, over/under 2.5 goals, BTTS, team ratings, and graded past results.
 - [GitHub Football Projects](https://github.com/topics/football) — football-related open-source software.
 - [GitHub Soccer Projects](https://github.com/topics/soccer) — soccer applications, APIs, and data tools.
 
